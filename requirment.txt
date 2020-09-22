@@ -1,0 +1,8 @@
+ pip install virtualenv
+ virtualenv env
+ env\Scripts\Activate
+ 
+ pakage we need to install
+ pip install google-api-python-client
+ pip install google-auth google-auth-oauthlib
+ pip install Pillow
